@@ -25,7 +25,7 @@ static void count_sort(int array[], int n, int exp)
     }
  
     for (i = 1; i < 10; i++) {
-        count[i] += count[i - 1];
+        count[i] += count[i- 1];
     } 
  
     for (i = n - 1; i >= 0; i--) { 
