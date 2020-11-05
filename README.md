@@ -5,3 +5,5 @@ Simple update so I can change commit.
 The Bubble Sort algorithm sorts the array in ascending order.
 
 The algorithm is implemented in C.
+##Radix Sort
+Radix algorithm is implemented in C.x
